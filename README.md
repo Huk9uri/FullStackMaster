@@ -1,6 +1,3 @@
-# 🚀 FullStack Interview Master
-
-::: {align="center"}
 # FullStack Interview Master
 
 **실무 중심 풀스택 개발자 면접 학습 프로젝트**
@@ -12,7 +9,6 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Study](https://img.shields.io/badge/Study-Daily-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-:::
 
 ------------------------------------------------------------------------
 
@@ -28,14 +24,14 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 
 # 📈 Progress
 
-  Category      Progress
-  ------------- -------------------------
-  🌐 Network    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  ⚛️ Frontend   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  ☕ Spring     ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🗄 Database    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🔐 Security   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🚀 Infra      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+| Category | Progress |
+|----------|----------|
+| 🌐 Network | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| ⚛️ Frontend | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| ☕ Spring | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🗄️ Database | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🔐 Security | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🚀 Infra | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
 
 ------------------------------------------------------------------------
 
@@ -44,9 +40,16 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 ``` text
 FullStack-Interview-Master
 │
-├── README.md
+├── README.md                     ⭐ 메인 페이지
+│
 ├── docs
 │   ├── 01-Network
+│   │   ├── 01_URL_to_Render.md
+│   │   ├── 02_HTTP_HTTPS.md
+│   │   ├── 03_TCP.md
+│   │   ├── 04_TLS.md
+│   │   └── ...
+│   │
 │   ├── 02-Frontend
 │   ├── 03-Spring
 │   ├── 04-Database
@@ -54,10 +57,11 @@ FullStack-Interview-Master
 │   └── 06-Infra
 │
 ├── interview
-│   ├── CS.md
+│   ├── CS.md                 ← 면접 질문만 정리
 │   ├── Spring.md
 │   ├── Database.md
-│   └── Frontend.md
+│   ├── Frontend.md
+│   └── 꼬리질문.md
 │
 └── templates
     └── Daily_Template.md
@@ -69,7 +73,7 @@ FullStack-Interview-Master
 
 ## 🌐 Network
 
--   [ ] URL → Render
+-   [x] URL → Render
 -   [ ] HTTP vs HTTPS
 -   [ ] TCP 3-Way Handshake
 -   [ ] TLS Handshake
@@ -141,9 +145,11 @@ FullStack-Interview-Master
 
 # 📅 Study Log
 
-  Day      Topic               Note
-  -------- ------------------- ------
-  Day 01   URL → 화면 렌더링   ✅
+| Day | Topic | Note |
+|---|---|---|
+| Day 01 | URL → 화면 렌더링 | ✅ 완료 |
+| Day 02 | HTTP와 HTTPS의 차이 | ⬜ 예정 |
+| Day 03 | TCP 3-way Handshake | ⬜ 예정 |
 
 ------------------------------------------------------------------------
 
@@ -186,6 +192,6 @@ FullStack-Interview-Master
 
 # 🏁 Final Goal
 
-> "이 지원자는 암기한 것이 아니라 실제 동작 원리를 이해하고 있다."
+> "암기한 것이 아니라 실제 동작 원리를 이해하고 있다."
 
 이 수준의 면접 답변을 목표로 학습합니다.
