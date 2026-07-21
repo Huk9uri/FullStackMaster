@@ -9,7 +9,6 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
 ![Study](https://img.shields.io/badge/Study-Daily-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-:::
 
 ------------------------------------------------------------------------
 
