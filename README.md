@@ -1,6 +1,3 @@
-# 🚀 FullStack Interview Master
-
-::: {align="center"}
 # FullStack Interview Master
 
 **실무 중심 풀스택 개발자 면접 학습 프로젝트**
