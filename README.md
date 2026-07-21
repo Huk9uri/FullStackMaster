@@ -40,9 +40,16 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 ``` text
 FullStack-Interview-Master
 │
-├── README.md
+├── README.md                     ⭐ 메인 페이지
+│
 ├── docs
 │   ├── 01-Network
+│   │   ├── 01_URL_to_Render.md
+│   │   ├── 02_HTTP_HTTPS.md
+│   │   ├── 03_TCP.md
+│   │   ├── 04_TLS.md
+│   │   └── ...
+│   │
 │   ├── 02-Frontend
 │   ├── 03-Spring
 │   ├── 04-Database
@@ -50,10 +57,11 @@ FullStack-Interview-Master
 │   └── 06-Infra
 │
 ├── interview
-│   ├── CS.md
+│   ├── CS.md                 ← 면접 질문만 정리
 │   ├── Spring.md
 │   ├── Database.md
-│   └── Frontend.md
+│   ├── Frontend.md
+│   └── 꼬리질문.md
 │
 └── templates
     └── Daily_Template.md
