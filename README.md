@@ -24,14 +24,14 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 
 # 📈 Progress
 
-  Category      Progress
-  ------------- -------------------------
-  🌐 Network    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  ⚛️ Frontend   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  ☕ Spring     ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🗄 Database    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🔐 Security   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
-  🚀 Infra      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+| Category | Progress |
+|----------|----------|
+| 🌐 Network | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| ⚛️ Frontend | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| ☕ Spring | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🗄️ Database | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🔐 Security | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🚀 Infra | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ FullStack-Interview-Master
 
 ## 🌐 Network
 
--   [ ] URL → Render
+-   [x] URL → Render
 -   [ ] HTTP vs HTTPS
 -   [ ] TCP 3-Way Handshake
 -   [ ] TLS Handshake
@@ -137,9 +137,11 @@ FullStack-Interview-Master
 
 # 📅 Study Log
 
-  Day      Topic               Note
-  -------- ------------------- ------
-  Day 01   URL → 화면 렌더링   ✅
+| Day | Topic | Note |
+|---|---|---|
+| Day 01 | URL → 화면 렌더링 | ✅ 완료 |
+| Day 02 | HTTP와 HTTPS의 차이 | ⬜ 예정 |
+| Day 03 | TCP 3-way Handshake | ⬜ 예정 |
 
 ------------------------------------------------------------------------
 
@@ -182,6 +184,6 @@ FullStack-Interview-Master
 
 # 🏁 Final Goal
 
-> "이 지원자는 암기한 것이 아니라 실제 동작 원리를 이해하고 있다."
+> "암기한 것이 아니라 실제 동작 원리를 이해하고 있다."
 
 이 수준의 면접 답변을 목표로 학습합니다.
