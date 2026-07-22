@@ -26,7 +26,7 @@ CS를 암기하지 않고 **원리 중심**으로 이해하고,\
 
 | Category | Progress |
 |----------|----------|
-| 🌐 Network | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
+| 🌐 Network | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
 | ⚛️ Frontend | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
 | ☕ Spring | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
 | 🗄️ Database | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0% |
@@ -74,7 +74,7 @@ FullStack-Interview-Master
 ## 🌐 Network
 
 -   [x] URL → Render
--   [ ] HTTP vs HTTPS
+-   [x] HTTP vs HTTPS
 -   [ ] TCP 3-Way Handshake
 -   [ ] TLS Handshake
 -   [ ] HTTP/1.1 vs HTTP/2 vs HTTP/3
