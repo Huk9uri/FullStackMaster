@@ -75,10 +75,10 @@ FullStack-Interview-Master
 
 -   [x] URL → Render
 -   [x] HTTP vs HTTPS
--   [ ] TCP 3-Way Handshake
--   [ ] TLS Handshake
--   [ ] HTTP/1.1 vs HTTP/2 vs HTTP/3
--   [ ] Cookie / Session / JWT
+-   [x] TCP 3-Way Handshake
+-   [x] TLS Handshake
+-   [x] HTTP/1.1 vs HTTP/2 vs HTTP/3
+-   [x] Cookie / Session / JWT
 -   [ ] CORS
 -   [ ] Proxy / Reverse Proxy / Load Balancer
 -   [ ] CDN
