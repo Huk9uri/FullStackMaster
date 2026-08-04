@@ -79,8 +79,8 @@ FullStack-Interview-Master
 -   [x] TLS Handshake
 -   [x] HTTP/1.1 vs HTTP/2 vs HTTP/3
 -   [x] Cookie / Session / JWT
--   [ ] CORS
--   [ ] Proxy / Reverse Proxy / Load Balancer
+-   [x] CORS
+-   [x] Proxy / Reverse Proxy / Load Balancer
 -   [ ] CDN
 -   [ ] REST API
 -   [ ] HTTP Method
